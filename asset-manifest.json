@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vaiga1/static/css/main.f95e344c.chunk.css",
+    "main.js": "/vaiga1/static/js/main.f9eb4e52.chunk.js",
+    "main.js.map": "/vaiga1/static/js/main.f9eb4e52.chunk.js.map",
+    "runtime-main.js": "/vaiga1/static/js/runtime-main.788c3b85.js",
+    "runtime-main.js.map": "/vaiga1/static/js/runtime-main.788c3b85.js.map",
+    "static/js/2.626810e4.chunk.js": "/vaiga1/static/js/2.626810e4.chunk.js",
+    "static/js/2.626810e4.chunk.js.map": "/vaiga1/static/js/2.626810e4.chunk.js.map",
+    "static/js/3.29355315.chunk.js": "/vaiga1/static/js/3.29355315.chunk.js",
+    "static/js/3.29355315.chunk.js.map": "/vaiga1/static/js/3.29355315.chunk.js.map",
+    "index.html": "/vaiga1/index.html",
+    "static/css/main.f95e344c.chunk.css.map": "/vaiga1/static/css/main.f95e344c.chunk.css.map",
+    "static/js/2.626810e4.chunk.js.LICENSE.txt": "/vaiga1/static/js/2.626810e4.chunk.js.LICENSE.txt",
+    "static/media/DAFAQ.049967c5.png": "/vaiga1/static/media/DAFAQ.049967c5.png",
+    "static/media/logo.6ce24c58.svg": "/vaiga1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.788c3b85.js",
+    "static/js/2.626810e4.chunk.js",
+    "static/css/main.f95e344c.chunk.css",
+    "static/js/main.f9eb4e52.chunk.js"
+  ]
+}
