@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vaiga1/static/css/main.f95e344c.chunk.css",
-    "main.js": "/vaiga1/static/js/main.f9eb4e52.chunk.js",
-    "main.js.map": "/vaiga1/static/js/main.f9eb4e52.chunk.js.map",
+    "main.js": "/vaiga1/static/js/main.a2bbef22.chunk.js",
+    "main.js.map": "/vaiga1/static/js/main.a2bbef22.chunk.js.map",
     "runtime-main.js": "/vaiga1/static/js/runtime-main.788c3b85.js",
     "runtime-main.js.map": "/vaiga1/static/js/runtime-main.788c3b85.js.map",
     "static/js/2.626810e4.chunk.js": "/vaiga1/static/js/2.626810e4.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.788c3b85.js",
     "static/js/2.626810e4.chunk.js",
     "static/css/main.f95e344c.chunk.css",
-    "static/js/main.f9eb4e52.chunk.js"
+    "static/js/main.a2bbef22.chunk.js"
   ]
 }
