@@ -83,22 +83,15 @@ function App() {
                         <div class="col-sm-4 left-col">
                             {/* <img class="img-fluid" src="logo-white.1938fd82.svg" alt="ksum logo"> */}
                             <div class="address">
-                                <p>G3B, Thejaswini, Technopark Campus, Kariyavattom, Trivandrum, Kerala 695581</p>
+                                <p>Vaiga Hackthon</p>
+                                <p><h6>Team Members</h6></p>
+                                <p><h6>Abhay Raj</h6></p>
+                                <p><h6>Aswin Sreerag</h6></p>
+                                <p><h6>Basil Leju</h6></p>
+                                <p><h6>Jose ben</h6></p>
                             </div>
-                            <div class="phone">
-                                <div> <i class="fa fa-phone"></i>08047180470</div>
-                                <p>( Timings: 08.00 am to 08.00 pm )</p>
-                            </div>
-                            <div class="social"><a href="https://www.facebook.com/keralastartupmission" target="_blank"
-                                rel="noopener" aria-label="fb link"><i class="fa fa-facebook"></i></a><a
-                                    href="https://twitter.com/startup_mission" target="_blank" rel="noopener"
-                                    aria-label="twitter link"><i class="fa fa-twitter"></i></a><a
-                                        href="https://in.linkedin.com/company/kerala-startup-mission" target="_blank" rel="noopener"
-                                        aria-label="linkedin link"><i class="fa fa-linkedin"></i></a><a
-                                            href="https://www.pinterest.com/pin/796996465276301175/" target="_blank" rel="noopener"
-                                            aria-label="pintrest link"><i class="fa fa-pinterest"></i></a><a
-                                                href="https://www.youtube.com/results?search_query=kerala+startup+mission" target="_blank"
-                                                rel="noopener" aria-label="youtube link"><i class="fa fa-youtube-play"></i></a></div>
+
+
                         </div>
                         <div class="col-sm-4"></div>
                         <div class="col-sm-4 right-col"></div>
@@ -109,30 +102,6 @@ function App() {
                 <div class="image">
                     {/* <img class="img-fluid w-75" src="about-img1.a0c79107.png"> */}
 
-                </div>
-                <div class="content">
-                    <h3>What are we looking for ?</h3>
-                    <p>We are seeking ideas and solutions that have been proven or used in some other scenario i.e product
-                    /projects with a PoC/ and have potential usage in the fight against CoronaVirus only to be submitted.
-            </p>
-                    <h5>The categories are :</h5>
-                    <ul>
-                        <li>Ideas to support Covid 19 Patients</li>
-                        <li>Ideas to support Quarantine Covid 19 patients </li>
-                        <li>Ideas to arrest Community Outbreak (If it happens)</li>
-                        <li>Ideas for effective Logistics & Distribution (Food/Medicine/Grocery)</li>
-                        <li>Ideas to support vulnerable people (aged/infants) </li>
-                        <li>Ideas to support system during Shutdown</li>
-                        <li>Hardware (Temporary medical items or substitutes or any hardware product that can be useful during
-                    the time of crisis)</li>
-                        <li>Ideas that support during economic slowdown if happens</li>
-                        <li>Do It Yourself (DIY) Projects (Creating masks, sanitizers, gloves, etc)</li>
-                        <li>Any other ideas / solutions which support prevention of Covid 19</li>
-                        <li>Ideas to create Employment opportunities during lockdown</li>
-                    </ul>
-                    <p class="small text-muted">Kindly note that only ideas/solutions that are given well in detail and with
-                    details of realising those ideas shall only be submitted. As we all know we don't have much time for
-                experimentation. </p>
                 </div>
             </section>
         </div >
