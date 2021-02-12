@@ -93,7 +93,7 @@ export default class Server extends React.Component {
                                     {/* <img class="img-fluid" src="student.f69876c4.png"> */}
                                     <i class="fa fa-thermometer-empty" aria-hidden="true"></i>
                                 </div>
-                                <div style={{ fontSize: "4vh", marginLeft: "75px" }}>{this.state.temp}<sup>&deg;c</sup></div>
+                                <div style={{ fontSize: "4vh", marginLeft: "75px" }}>{this.state.temp}<sup>&deg;</sup>C</div>
                             </div>
                             {/* </div> */}
                             <h4>Temperature</h4>

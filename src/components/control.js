@@ -68,7 +68,7 @@ function Control() {
                             P
 
                             </div>
-                        <h4>CO<sup>2</sup></h4>
+                        <h4>CO<sub>2</sub></h4>
                         <p></p>
                         <p>Condition </p>
                         {/* <form><label for="fname">phosphorus &nbsp; </label><input style={{ width: "15%", height: "3vh" }} type="text" /><input style={{ marginLeft: "10px", color: "#ffffff", backgroundColor: "#cfffbd", border: "none" }} type="submit" /></form> */}
